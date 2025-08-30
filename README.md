@@ -1,9 +1,13 @@
 # 🎓 Student Attendance Analysis
 
+## Dataset 📂 
+<a href="https://github.com/cephard/StudentAttendanceAnalysis/blob/main/University%20Performance%20Dataset.xlsx">Download here ⬇️</a>
+
+
 ## 📌 Company: Riverside University
 Riverside University is a growing institution committed to **academic excellence** and **student success**.  
 
-Currently, student data (📂 `courses`, `lecturers`, `departments`, `grades`, and `attendance`) is stored in **flat files**, making it difficult to:  
+Currently, student data (`courses`, `lecturers`, `departments`, `grades`, and `attendance`) is stored in **flat files**, making it difficult to:  
 - 📉 Assess student performance effectively  
 - 🔗 Link attendance with academic outcomes  
 - 🧑‍🏫 Identify courses or lecturers that require additional support  
